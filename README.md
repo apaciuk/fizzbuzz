@@ -62,6 +62,6 @@ $ irb -r ./lib/fizzbuzz.rb
 
 #### Test
 
-ruby test/test_parity.rb
+ruby test/test_fizzbuzz.rb
 
 ##### Workflow, GH action run tests
