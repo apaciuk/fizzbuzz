@@ -10,8 +10,10 @@ source 'https://gem.fury.io/xhostcom/' do
 gem 'fizzbuzz', '~> 0.0.1'
 end
 
+
+## Or
 ```ruby
-gem "fizzbuzz"
+gem 'fizzbuzz', '~> 0.0.1', :github => 'xhostcom/fizzbuzz'
 ```
 
 And then execute:
